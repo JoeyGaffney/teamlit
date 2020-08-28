@@ -2,7 +2,7 @@
 
 # Decklist:
 
-![image](./porygontts.jpg "Crazy Coders list")
+![image](./porygon_tts.jpg "Crazy Coders list")
 
 
 
