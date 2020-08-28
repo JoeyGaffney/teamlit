@@ -1,4 +1,4 @@
 ## TeamLit
 
-###Contents:
-- [decklists](https://joeygaffney.github.io/teamlit/decklists)
+### Contents:
+- [Decklists](https://joeygaffney.github.io/teamlit/decklists)
