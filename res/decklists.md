@@ -3,15 +3,9 @@
 # Standard (TEU-DAA)
 - [Crazy Coders](https://joeygaffney.github.io/teamlit/res/decklists/standard/crazy-coders)
 - [ADP-Birds](https://joeygaffney.github.io/teamlit/res/decklists/standard/adp-birds)
-- [PikaRom](https://joeygaffney.github.io/teamlit/res/decklists/standard/pikarom)
+- [LucMetal](https://joeygaffney.github.io/teamlit/res/decklists/standard/lucmetal)
 - [Mad Party](https://joeygaffney.github.io/teamlit/res/decklists/standard/mad-party)
-- [ADPZ](https://joeygaffney.github.io/teamlit/res/decklists/standard/adpz)
 - [Falinks](https://joeygaffney.github.io/teamlit/res/decklists/standard/falinks)
-- [Centiskorch](https://joeygaffney.github.io/teamlit/res/decklists/standard/centiskorch)
-- [Decidueye](https://joeygaffney.github.io/teamlit/res/decklists/standard/decidueye)
-- [Obstagoon](https://joeygaffney.github.io/teamlit/res/decklists/standard/obstagoon)
-- [Moth](https://joeygaffney.github.io/teamlit/res/decklists/standard/moth)
-- [Dark Squallers](https://joeygaffney.github.io/teamlit/res/decklists/standard/dark-squallers)
 
 # Expnaded (BLW - DAA)
 

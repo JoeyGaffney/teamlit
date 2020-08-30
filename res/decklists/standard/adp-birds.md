@@ -97,29 +97,29 @@ Energy
 
 ## Discussion
 ### Pokemon
-- ADP is pretty strong. Taking an extra prize is always going to be good, you steal advantage even though it takes an extra turn. The only way for your opponent to capitalize on it is to deny energy by taking early KOs on ADP. It is slightly more difficult with 280HP.
-- Birds is the main attacker. It allows you to run a green's engine which can be really good at times. 240 (after Altered Creation GX) is enough to KO a lot of things to net you 3 prizes.
-- Victini allows you to accelerate energy on turn 1. This opens up your options to either Altered Creation turn 2 or Ultimate Ray to get early damage advantage and overwhelm with energy attachments.
-- Milotic V makes Centiskorch a really easy matchup. You can also pull it out of nowhere with Green's into Tag Switch + Switch with an energy attachment.
+- **ADP** is pretty strong. Taking an extra prize is always going to be good, you steal advantage even though it takes an extra turn. The only way for your opponent to capitalize on it is to deny energy by taking early KOs on ADP. It is slightly more difficult with 280HP.
+- **Birds** is the main attacker. It allows you to run a green's engine which can be really good at times. 240 (after Altered Creation GX) is enough to KO a lot of things to net you 3 prizes.
+- **Victini** allows you to accelerate energy on turn 1. This opens up your options to either Altered Creation turn 2 or Ultimate Ray to get early damage advantage and overwhelm with energy attachments.
+- **Milotic V** makes Centiskorch a really easy matchup. You can also pull it out of nowhere with Green's into Tag Switch + Switch with an energy attachment.
 
 ### Trainers
 - **Supporters**
-    - Green's is a really good supporter. You can almost always play it instead of a Professor's Research and get a better outcome. 
+    - **Green's** is a really good supporter. You can almost always play it instead of a Professor's Research and get a better outcome. 
     - Tag Team Supporters complement the Tag Call Engine.
 - **Items**
-    - Tag Call is self-explanatory.
-    - 2 Quick Ball is usually fine when you run 4 Green's and 4 Tag Calls. If you don't start Victini you can Green's for Switch and Quick Ball. Otherwise, just attach to ADP and you're still fine.
-    - 4 Pokemon Catcher (Flip Version) is absolutely insane at times. Being able to Green's into two catcher for a 75% chance of gust is a valid play, so is getting the one item you need to attack and a single Catcher for a 50% chance to put yourself in a super winning position. You still run Boss's Orders because a guaranteed gust is always better. 
-    - Island Challenge Amulet (Flip Version) is to try and force your opponent into KOing 3 Tag Teams. You only need to use 1 if you do not play down Victini in a game. It will buy you the turn to attach energy to set up for the 3 prize steal on that Dedenne-GX or Crobat V.
+    - **Tag Call** is self-explanatory.
+    - 2 **Quick Ball** is usually fine when you run 4 Green's and 4 Tag Calls. If you don't start Victini you can Green's for Switch and Quick Ball. Otherwise, just attach to ADP and you're still fine.
+    - 4 **Pokemon Catcher** (Flip Version) is absolutely insane at times. Being able to Green's into two catcher for a 75% chance of gust is a valid play, so is getting the one item you need to attack and a single Catcher for a 50% chance to put yourself in a super winning position. You still run Boss's Orders because a guaranteed gust is always better. 
+    - **Island Challenge Amulet** (Flip Version) is to try and force your opponent into KOing 3 Tag Teams. You only need to use 1 if you do not play down Victini in a game. It will buy you the turn to attach energy to set up for the 3 prize steal on that Dedenne-GX or Crobat V.
 - **Stadiums**
-    - Viridian Forest is an okay choice over swell. Searching for the correct energy type (usually fire for victini turn 1) is sometimes important.
+    - **Viridian Forest** is an okay choice over swell. Searching for the correct energy type (usually fire for victini turn 1) is sometimes important.
 
 ### Energy
-- 3 Aurora seems like a fine split. You usually search them out with Guzma & Hala and they are only needed for ADP. 
+- 3 **Aurora** seems like a fine split. You usually search them out with Guzma & Hala and they are only needed for ADP. 
 - 3/3/3 Energy split just to make sure you don't prize all of one type.
 
 ### Potential Techs
-- *Mawile-GX* lets you punish people who hold their GX/V Pokemon.
-- *Turbo Patch/Energy Switch* is honestly not good in this. It is good in ADPZ though. The combo is much harder to pull off here.
+- **Mawile-GX** lets you punish people who hold their GX/V Pokemon.
+- **Turbo Patch/Energy Switch** is honestly not good in this. It is good in ADPZ though. The combo is much harder to pull off here.
 
 [Back](https://joeygaffney.github.io/teamlit/res/decklists)

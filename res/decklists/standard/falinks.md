@@ -1,10 +1,10 @@
-## Deck Name
+## Falinks
 
 [Back](https://joeygaffney.github.io/teamlit/res/decklists)
 
 # Decklist:
 
-<img src="./pics/falinks_tts.jpg" alt="deckname-decklist" width="1000" />
+<img src="./pics/falinks_tts.jpg" alt="falinks-decklist" width="1000" />
 # For PTCGO import:
 ```
 Pokemon - 8
@@ -56,17 +56,17 @@ Energy
 
 ## Discussion
 ### Pokemon
-- Falinks/Falinks V. You do not need to run any other Pokemon in the deck. With 4 Falinks V and a Cape, your regular Falinks have the equivalent of 220HP and your Falinks V become tanks with 290HP.
+- **Falinks/Falinks V**. You do not need to run any other Pokemon in the deck. With 4 Falinks V and a Cape, your regular Falinks have the equivalent of 220HP and your Falinks V become tanks with 290HP.
 
 ### Trainers
 - **Supporters**
-    - Boss's Orders. You could run 4 however I didn't see it as necessary. 3 is enough for 3 Crobat V/Dedenne GX.
-    - Sonia is a great card. Search for 2 Falinks V means you take 40 less damage and do 60 more. The option to search for energy in the mid-late game is also useful.
+    - **Boss's Orders**. You could run 4 however I didn't see it as necessary. 3 is enough for 3 Crobat V/Dedenne GX.
+    - **Sonia** is a great card. Search for 2 Falinks V means you take 40 less damage and do 60 more. The option to search for energy in the mid-late game is also useful.
 - **Items**
-    - Quick Ball/Great Ball. If there was a better option instead of Great Ball, I would pick that. They will fail 80% of the time in the early game but become a bit better when your deck is thinner and you rod in some Falinks.
-    - Reset Stamp wins games. You can play them early for extra disruption and still easily find them late game once a few Falinks have fallen.
+    - **Quick Ball/Great Ball**. If there was a better option instead of Great Ball, I would pick that. They will fail 80% of the time in the early game but become a bit better when your deck is thinner and you rod in some Falinks.
+    - **Reset Stamp** wins games. You can play them early for extra disruption and still easily find them late game once a few Falinks have fallen.
 - **Stadiums**
-    - Martial Arts Dojo lets you one-shot Eternatus VMAX if you are behind on prizes. You need to attach a fighting energy but it's definitely worth it.
+    - **Martial Arts Dojo** lets you one-shot Eternatus VMAX if you are behind on prizes. You need to attach a fighting energy but it's definitely worth it.
 
 ### Energy
 - 6 Fighting sometimes feels like too much. You could get away with 4 but being able to draw into them without having to rely on Sonia is nice to have.
