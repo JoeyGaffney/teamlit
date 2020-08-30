@@ -2,10 +2,9 @@
 
 # Decklist:
 
-![image](./porygonz.png "Crazy Coders list")
-
-```
+<img src="porygonz.png" alt="crazy-coders-decklist" width="200" />
 # For PTCGO import:
+```
 Pokemon - 16
 3 Porygon-Z UNB 157
 1 Porygon2 UNB 156
