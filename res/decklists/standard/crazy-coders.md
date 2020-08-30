@@ -2,7 +2,7 @@
 
 # Decklist:
 
-<img src="porygonz.png" alt="crazy-coders-decklist" width="1000" />
+<img src="porygonzps.png" alt="crazy-coders-decklist" width="1000" />
 # For PTCGO import:
 ```
 Pokemon - 16
