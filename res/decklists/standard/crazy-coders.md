@@ -37,7 +37,6 @@ Energy - 13
 
 # Card Choices
 ## Skeleton
-<img src="porygonz-skeleton.png" alt="crazy-coders-decklist" width="1000" />
 ```
 Pokemon
 2 Porygon-Z
