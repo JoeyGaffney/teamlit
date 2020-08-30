@@ -82,6 +82,8 @@ Energy
     - 4 Switch. This is mainly for Raichu Tag Team to get consecutive paralysis.
 - **Stadiums**
     - 1 Chaotic Swell. Preventing stadiums from sticking is sometimes necessary, protect yourself from the Wondorous Labyrinth tech or disrupt your opponent from grabbing energy with Giant Hearth. 
+- **Potential Techs**
+    - Hyper Potion. Essentially free heal. The downside is that it is very situational and hard to find when you need it. I could see a list that focuses on tanky attackers with a tag call engine that could utilise this well. I prefer speed draw still.
 
 ### Energy
 - **Speed/Draw**

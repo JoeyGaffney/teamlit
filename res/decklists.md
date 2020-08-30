@@ -2,6 +2,7 @@
 
 # Standard (TEU-DAA)
 - [Crazy Coders](https://joeygaffney.github.io/teamlit/res/decklists/standard/crazy-coders)
+- [ADP-Birds](https://joeygaffney.github.io/teamlit/res/decklists/standard/adp-birds)
 - [PikaRom](https://joeygaffney.github.io/teamlit/res/decklists/standard/pikarom)
 - [Mad Party](https://joeygaffney.github.io/teamlit/res/decklists/standard/mad-party)
 - [ADPZ](https://joeygaffney.github.io/teamlit/res/decklists/standard/adpz)
