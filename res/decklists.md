@@ -1,11 +1,12 @@
+[Home](https://joeygaffney.github.io/teamlit)
 ## Decklists
-
 # Standard (TEU-DAA)
 - [Crazy Coders](https://joeygaffney.github.io/teamlit/res/decklists/standard/crazy-coders)
 - [ADP-Birds](https://joeygaffney.github.io/teamlit/res/decklists/standard/adp-birds)
 - [LucMetal](https://joeygaffney.github.io/teamlit/res/decklists/standard/lucmetal)
 - [Mad Party](https://joeygaffney.github.io/teamlit/res/decklists/standard/mad-party)
 - [Falinks](https://joeygaffney.github.io/teamlit/res/decklists/standard/falinks)
+- [Eternatus](https://joeygaffney.github.io/teamlit/res/decklists/standard/eternatus)
 
 # Expnaded (BLW - DAA)
 
