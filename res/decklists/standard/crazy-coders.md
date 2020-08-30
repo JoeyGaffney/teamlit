@@ -4,57 +4,60 @@
 
 ![image](./porygonz.png "Crazy Coders list")
 
-For PTCGO import:
-> Pokemon - 16
-> 3 Porygon-Z UNB 157
-> 1 Porygon2 UNB 156
-> 3 Porygon UNB 155
-> 2 Raichu & Alolan Raichu GX UNM 221
-> 2 Dedenne GX UNB 195
-> 2 Cramorant V SSH 155
-> 1 Vikavolt V DAA 60
->
-> Trainer - 31
-> 4 Professor's Research SSH 178
-> 3 Marnie SSH 169
-> 3 Skyla RCL 166
-> 2 Boss's Orders RCL 154
-> 4 Quick Ball SSH 179
-> 4 Rare Candy GRI 165
-> 3 Pokemon Communication TEU 152
-> 1 Evolution Incense SSH 163
-> 4 Switch PRC 163
-> 1 Reset Stamp UNM 253
-> 1 Tool Scrapper RCL 208
-> 1 Chaotic Swell CEC 187
->
-> Energy - 13
-> 4 Speed Lightning Energy RCL 173
-> 1 Lightning Energy
-> 4 Recycle Energy UNM 257
-> 4 Draw Energy CEC 271
+```
+# For PTCGO import:
+Pokemon - 16
+3 Porygon-Z UNB 157
+1 Porygon2 UNB 156
+3 Porygon UNB 155
+2 Raichu & Alolan Raichu GX UNM 221
+2 Dedenne GX UNB 195
+2 Cramorant V SSH 155
+1 Vikavolt V DAA 60
 
+Trainer - 31
+4 Professor's Research SSH 178
+3 Marnie SSH 169
+3 Skyla RCL 166
+2 Boss's Orders RCL 154
+4 Quick Ball SSH 179
+4 Rare Candy GRI 165
+3 Pokemon Communication TEU 152
+1 Evolution Incense SSH 163
+4 Switch PRC 163
+1 Reset Stamp UNM 253
+1 Tool Scrapper RCL 208
+1 Chaotic Swell CEC 187
+
+Energy - 13
+4 Speed Lightning Energy RCL 173
+1 Lightning Energy
+4 Recycle Energy UNM 257
+4 Draw Energy CEC 271
+```
 
 # Card Choices
 ## Skeleton
 ![image](./porygonz-skeleton.png "Crazy Coders list skeleton")
-> Pokemon
-> 2 Porygon-Z
-> 2 Porygon
-> 2 Dedenne GX
-> 2 Cramorant V
-> 
-> Trainers
-> 3 Professor's Research
-> 3 Marnie
-> 2 Skyla
-> 4 Quick Ball
-> 3 Rare Candy
-> 
-> Energy
-> 4 Speed Lightning
-> 4 Recycle
-> 4 Draw
+```
+Pokemon
+2 Porygon-Z
+2 Porygon
+2 Dedenne GX
+2 Cramorant V
+ 
+Trainers
+3 Professor's Research
+3 Marnie
+2 Skyla
+4 Quick Ball
+3 Rare Candy
+ 
+Energy
+4 Speed Lightning
+4 Recycle
+4 Draw
+```
 
 ## Discussion
 ### Pokemon
