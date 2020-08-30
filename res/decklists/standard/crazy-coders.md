@@ -2,7 +2,7 @@
 
 # Decklist:
 
-<img src="porygonz.png" alt="crazy-coders-decklist" width="200" />
+<img src="porygonz.png" alt="crazy-coders-decklist" width="3600" />
 # For PTCGO import:
 ```
 Pokemon - 16
@@ -37,7 +37,7 @@ Energy - 13
 
 # Card Choices
 ## Skeleton
-![image](./porygonz-skeleton.png "Crazy Coders list skeleton")
+<img src="porygonz-skeleton.png" alt="crazy-coders-decklist" width="3600" />
 ```
 Pokemon
 2 Porygon-Z
