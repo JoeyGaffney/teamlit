@@ -1,10 +1,10 @@
-## Deck Name
+## Eternatus
 
 [Back](https://joeygaffney.github.io/teamlit/res/decklists)
 
 # Decklist:
 
-<img src="./pics/eternatus_tts.jpg" alt="deckname-decklist" width="1000" />
+<img src="./pics/eternatus_tts.jpg" alt="eternatus-decklist" width="1000" />
 # For PTCGO import:
 ```
 Pokemon - 19

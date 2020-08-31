@@ -54,9 +54,9 @@ Trainer - 39
 2 Boss's Orders RCL 154
 2 Guzma & Hala CEC 193
 3 Cynthia & Caitlin CEC 189
-4 Pokemon Catcher
-1 Great Catcher
-3 Island Challenge Amulet
+4 Pokemon Catcher SSH 175
+1 Great Catcher CEC 192
+3 Island Challenge Amulet CEC 194
 4 Tag Call CEC 206
 1 Tool Scrapper RCL 168
 1 Ordinary Rod SSH 171

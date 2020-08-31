@@ -1,20 +1,16 @@
 [Home](https://joeygaffney.github.io/teamlit)
 ## Decklists
 # Standard (TEU-DAA)
-- [Crazy Coders](https://joeygaffney.github.io/teamlit/res/decklists/standard/crazy-coders)
 - [ADP-Birds](https://joeygaffney.github.io/teamlit/res/decklists/standard/adp-birds)
+- [Crazy Coders](https://joeygaffney.github.io/teamlit/res/decklists/standard/crazy-coders)
+- [Eternatus](https://joeygaffney.github.io/teamlit/res/decklists/standard/eternatus)
+- [Falinks](https://joeygaffney.github.io/teamlit/res/decklists/standard/falinks)
 - [LucMetal](https://joeygaffney.github.io/teamlit/res/decklists/standard/lucmetal)
 - [Mad Party](https://joeygaffney.github.io/teamlit/res/decklists/standard/mad-party)
-- [Falinks](https://joeygaffney.github.io/teamlit/res/decklists/standard/falinks)
-- [Eternatus](https://joeygaffney.github.io/teamlit/res/decklists/standard/eternatus)
 
 # Expnaded (BLW - DAA)
 
 # Hall of Fame
-- 2004
-- 2005
-- 2006
-- 2007
 - 2008
 - 2009
 - 2010
