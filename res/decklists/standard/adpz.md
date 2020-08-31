@@ -98,13 +98,13 @@ Energy
 
 ### Trainers
 - **Supporters**
-    - Boss's Orders is the best card in this deck as it will often result in taking 3 prizes. 
+    - **Boss's Orders** is the best card in this deck as it will often result in taking 3 prizes. 
     - Between the **Tag Call* engine and the vanilla draw supporter engine, I prefer the vanilla since it is overall more consistent. 
 - **Items**
-    - Metal Saucer gives you comeback potential or early burst. Great card all around.
+    - **Metal Saucer** gives you comeback potential or early burst. Great card all around.
     - The flip version aims to burst with **Turbo Patch**, **Metal Saucer**, and **Energy Switch**. Then chase kills with **Pokemon Catcher**. It is not good but you can sometimes cheese out wins from nothing.
 - **Stadiums**
-    - **Chaotic Swell* for winning stadium wars.
+    - **Chaotic Swell** for winning stadium wars.
 
 ### Energy
 - **8 Metal** is good enough, you could also run 9 Metal and 3 Aurora.
