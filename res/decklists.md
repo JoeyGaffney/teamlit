@@ -1,6 +1,7 @@
 [Home](https://joeygaffney.github.io/teamlit)
 ## Decklists
 # Standard (TEU-DAA)
+- [ADPZ](https://joeygaffney.github.io/teamlit/res/decklists/standard/adpz)
 - [ADP-Birds](https://joeygaffney.github.io/teamlit/res/decklists/standard/adp-birds)
 - [Crazy Coders](https://joeygaffney.github.io/teamlit/res/decklists/standard/crazy-coders)
 - [Eternatus](https://joeygaffney.github.io/teamlit/res/decklists/standard/eternatus)
@@ -9,8 +10,9 @@
 - [Mad Party](https://joeygaffney.github.io/teamlit/res/decklists/standard/mad-party)
 
 # Expnaded (BLW - DAA)
+lul expanded
 
-# Hall of Fame
+# Hall of Fame (Lists of mine that did well)
 - 2008
 - 2009
 - 2010
